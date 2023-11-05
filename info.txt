@@ -1,0 +1,6 @@
+install pascal dan jalankan kode di VScode
+download freepascal di www.freepascal.org/
+install seperti biasa
+buka vscode tambah code runner
+buka setting, buat run in terminal terceklis
+next run code
